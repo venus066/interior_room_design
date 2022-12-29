@@ -1,25 +1,3 @@
-## See it
-
-This repository includes an example application built using blueprint3d:
-
-### http://furnishup.github.io/blueprint3d/example/
-
-## What is this?
-
-This is a customizable application built on three.js that allows users to design an interior space such as a home or apartment. Below are screenshots from our Example App (link above). 
-
-1) Create 2D floorplan:
-
-![floorplan](https://s3.amazonaws.com/furnishup/floorplan.png)
-
-2) Add items:
-
-![add_items](https://s3.amazonaws.com/furnishup/add_items.png)
-
-3) Design in 3D:
-
-![3d_design](https://s3.amazonaws.com/furnishup/design.png)
-
 ## Developing and Running Locally
 
 To get started, clone the repository and ensure you npm >= 3 and grunt installed, then run:
